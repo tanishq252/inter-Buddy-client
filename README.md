@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+# Interview Guide
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#### A platform for placed students to share their interview experiences, so that any other person or student who wants to know how to prepare for specific company can go through the specific interview experiences.
 
-## Available Scripts
+#### In this web app the user has to be logged in order to post his/her experience, apart from experience of the interview, other specific necessary points are also required while posting the experience.
 
-In the project directory, you can run:
+## Home Page
 
-### `npm start`
+![image](https://user-images.githubusercontent.com/78098329/210245612-89cbcc5c-a731-4319-a6cb-ec8d2cbe58c8.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![image](https://user-images.githubusercontent.com/78098329/210245633-765ffa31-168e-474e-b55c-5f78b8988820.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Companies
 
-### `npm test`
+![image](https://user-images.githubusercontent.com/78098329/210245686-8f419a32-10b2-4c1c-8978-be3af782cf88.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Add New Company 
 
-### `npm run build`
+![image](https://user-images.githubusercontent.com/78098329/210245746-1d45b6a3-2732-4369-9675-9a9a1e90abb2.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Company Specific Experiences
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![image](https://user-images.githubusercontent.com/78098329/210245938-b973a113-7979-4d61-ae5d-b9fb6ad3a7b5.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Add New Interview Experience
 
-### `npm run eject`
+![image](https://user-images.githubusercontent.com/78098329/210246023-08427d87-371e-445d-91c3-165fcebe422d.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Interview Experience
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![image](https://user-images.githubusercontent.com/78098329/210246338-bc286a23-82ec-4874-84a0-8d1227af38fd.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Login Form
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![image](https://user-images.githubusercontent.com/78098329/210246491-215f7eb7-671d-47cf-bb6f-5e3b23053d2f.png)
 
-## Learn More
+## Sign Up Form
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![image](https://user-images.githubusercontent.com/78098329/210246533-6109bcaa-af9e-47c0-ba85-bbe8907f230c.png)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
