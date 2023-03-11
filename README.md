@@ -4,6 +4,9 @@
 
 #### In this web app the user has to be logged in order to post his/her experience, apart from experience of the interview, other specific necessary points are also required while posting the experience.
 
+#### Link to the backend application: https://github.com/tanishq252/inter-buddy-server
+#### The server app consists of REST APIs to operate all the necessary functionalities at the backend of webiste, this app has the business layer logic or we can say the controller which runs on an independent server.
+
 ## Home Page
 
 ![image](https://user-images.githubusercontent.com/78098329/210245612-89cbcc5c-a731-4319-a6cb-ec8d2cbe58c8.png)
